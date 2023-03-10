@@ -1,0 +1,17 @@
+Iniciar um projeto Node
+    npm init --yes
+
+Instalar o Cypress
+    npm install -D cypress
+    npm install -D cypress@12.5.0
+
+Abrir o Cypress
+    npx Cypress open
+
+    npx Cypress run
+
+ hooks -> executar antes ou depois / de cada ou de todos os testes.
+    before
+    after
+    beforeEach
+    afterEach
